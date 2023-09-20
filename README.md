@@ -1,3 +1,5 @@
+![Captura de Tela (90)](https://github.com/Gabriel372/Header-dropdown-responsive/assets/124525153/26cb344a-a213-4387-9ac8-2de86818cc4c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
