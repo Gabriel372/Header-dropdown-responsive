@@ -1,4 +1,4 @@
-![Captura de Tela (90)](https://github.com/Gabriel372/Header-dropdown-responsive/assets/124525153/26cb344a-a213-4387-9ac8-2de86818cc4c)
+![Captura de Tela (92)](https://github.com/Gabriel372/Header-responsive-dropdown/assets/124525153/940ecb86-2779-4c7d-a71b-b837ae4a9e54)
 
 # Getting Started with Create React App
 
