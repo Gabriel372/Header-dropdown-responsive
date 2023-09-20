@@ -1,0 +1,98 @@
+header{
+height: 80px;
+background-color: rgb(212, 33, 33);
+display: flex;
+justify-content: space-between;
+padding-right: 20px;
+padding-left: 20px;
+align-items: center;
+}   
+a{
+text-decoration: none;
+color: white;
+font-size: 25px;
+}
+.iconBurger{
+width: 40px;
+height: 35px;
+background-color: white;
+border-radius: 5px;
+padding: 6px;
+box-sizing: border-box;
+border: none;
+cursor: pointer;
+}
+.line{
+width: 30px;
+height: 3px;
+margin-bottom: 6px;
+background-color: rgb(212, 33, 33);
+}
+@media (max-width:770px) {
+header{height: 70px;} 
+}
+@media (max-width:500px) {
+.socialIcons{display: none;}
+header{height: 60px;}
+}
+.dropDown{
+position: relative;
+top: -90px ;
+border-radius: 6px;
+max-width: 110px;
+}
+.dropNone{
+display: none;
+}
+.spaceDrop{
+height: 90px;
+opacity: 0;
+}
+.linkDown{
+box-shadow: 0px 5px 20px 1px gray;
+border-radius: 7px;
+}
+.linkDown > *{
+color: black;
+display: block;
+padding-left: 10px;
+font-size: 18px;
+padding-top: 5px;
+}
+.linkDown > *:hover {
+background-color: rgb(228, 222, 222);    
+}
+.socialIcons{
+color: white;
+}
+.socialIcons > * {
+font-size: 20px;
+padding-right: 5px;
+cursor: pointer;
+}
+input{
+height: 30px;   
+width: 150px; 
+font-size: 15px;
+padding-top: 0;
+padding-bottom: 0;
+border: none;
+border-radius: 5px;
+}
+.btnSearch{
+height: 18px;
+border: none;
+color: white;
+}
+.divInput{
+border: 2px solid rgb(143, 7, 7);
+border-radius: 10px;
+display: flex;
+align-items: center;
+}
+.btnBorder{
+border: none;
+background-color: rgb(212, 33, 33);
+font-size: 17px;
+cursor: pointer;
+}
